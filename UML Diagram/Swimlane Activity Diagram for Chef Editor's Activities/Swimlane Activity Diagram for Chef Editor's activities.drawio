@@ -1,14 +1,14 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.6">
   <diagram name="Page-1" id="I9Q7qzouOz8Onec8Lson">
-    <mxGraphModel dx="687" dy="2553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3437" dy="3967" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ZDjRMeNJiW4ygZgqQOHh-1" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=30;horizontalStack=0;html=1;" value="Swimlane Activity Diagram for&amp;nbsp;&lt;font&gt;Chef Editor&#39;s Activities&lt;/font&gt;" vertex="1">
-          <mxGeometry height="990" width="1660" x="40" y="-2166" as="geometry" />
+          <mxGeometry height="990" width="1420" x="40" y="-2166" as="geometry" />
         </mxCell>
         <mxCell id="ZDjRMeNJiW4ygZgqQOHh-2" parent="ZDjRMeNJiW4ygZgqQOHh-1" style="swimlane;startSize=20;horizontal=0;html=1;" value="&lt;font&gt;Chef Editor&lt;/font&gt;" vertex="1">
-          <mxGeometry height="960" width="1660" y="30" as="geometry" />
+          <mxGeometry height="960" width="1420" y="30" as="geometry" />
         </mxCell>
         <mxCell id="ZDjRMeNJiW4ygZgqQOHh-5" parent="ZDjRMeNJiW4ygZgqQOHh-2" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" value="" vertex="1">
           <mxGeometry height="30" width="30" x="60" y="46" as="geometry" />
