@@ -1,0 +1,94 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.6">
+  <diagram name="Page-1" id="pXncplA-IAE1w3Z10CO6">
+    <mxGraphModel dx="1895" dy="1084" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ENoXBHanKeUOEaJDRfoB-1" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=30;horizontalStack=0;html=1;" value="Swimlane Activity Diagram for Copy Editor&#39;s Activity" vertex="1">
+          <mxGeometry height="640" width="870" x="40" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ENoXBHanKeUOEaJDRfoB-2" parent="ENoXBHanKeUOEaJDRfoB-1" style="swimlane;startSize=30;horizontal=0;html=1;" value="Copy Editor" vertex="1">
+          <mxGeometry height="610" width="870" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ENoXBHanKeUOEaJDRfoB-5" parent="ENoXBHanKeUOEaJDRfoB-2" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="80" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ENoXBHanKeUOEaJDRfoB-6" edge="1" parent="ENoXBHanKeUOEaJDRfoB-2" source="ENoXBHanKeUOEaJDRfoB-5" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" target="ENoXBHanKeUOEaJDRfoB-7" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ENoXBHanKeUOEaJDRfoB-15" edge="1" parent="ENoXBHanKeUOEaJDRfoB-2" source="ENoXBHanKeUOEaJDRfoB-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ENoXBHanKeUOEaJDRfoB-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ENoXBHanKeUOEaJDRfoB-7" parent="ENoXBHanKeUOEaJDRfoB-2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" value="&lt;font&gt;Track Editor Edited Camera-ready copy&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="120" x="224.5" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ENoXBHanKeUOEaJDRfoB-8" parent="ENoXBHanKeUOEaJDRfoB-2" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Login via using the Credentials" vertex="1">
+          <mxGeometry height="50" width="150" x="358" y="285" as="geometry" />
+        </mxCell>
+        <mxCell id="ENoXBHanKeUOEaJDRfoB-9" edge="1" parent="ENoXBHanKeUOEaJDRfoB-2" source="ENoXBHanKeUOEaJDRfoB-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="ENoXBHanKeUOEaJDRfoB-8" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="314" y="172.5384615384619" as="sourcePoint" />
+            <mxPoint x="392" y="332" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ENoXBHanKeUOEaJDRfoB-10" connectable="0" parent="ENoXBHanKeUOEaJDRfoB-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="[Have&amp;nbsp;&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;account]&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.3041" y="3" as="geometry">
+            <mxPoint y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ENoXBHanKeUOEaJDRfoB-11" parent="ENoXBHanKeUOEaJDRfoB-2" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Create reviewer account&amp;nbsp;" vertex="1">
+          <mxGeometry height="50" width="150" x="60" y="285" as="geometry" />
+        </mxCell>
+        <mxCell id="ENoXBHanKeUOEaJDRfoB-12" edge="1" parent="ENoXBHanKeUOEaJDRfoB-2" source="ENoXBHanKeUOEaJDRfoB-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="ENoXBHanKeUOEaJDRfoB-11" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="255" y="172.5384615384619" as="sourcePoint" />
+            <mxPoint x="7" y="342" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ENoXBHanKeUOEaJDRfoB-13" connectable="0" parent="ENoXBHanKeUOEaJDRfoB-12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="[Have not&amp;nbsp;&lt;div&gt;account]&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.0047" y="-1" as="geometry">
+            <mxPoint x="42" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ENoXBHanKeUOEaJDRfoB-14" parent="ENoXBHanKeUOEaJDRfoB-2" style="rhombus;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="269.5" y="158" as="geometry" />
+        </mxCell>
+        <mxCell id="ENoXBHanKeUOEaJDRfoB-27" edge="1" parent="ENoXBHanKeUOEaJDRfoB-2" source="ENoXBHanKeUOEaJDRfoB-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ENoXBHanKeUOEaJDRfoB-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ENoXBHanKeUOEaJDRfoB-16" parent="ENoXBHanKeUOEaJDRfoB-2" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;" value="" vertex="1">
+          <mxGeometry height="10" width="200" x="185" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="ENoXBHanKeUOEaJDRfoB-18" edge="1" parent="ENoXBHanKeUOEaJDRfoB-2" source="ENoXBHanKeUOEaJDRfoB-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="ENoXBHanKeUOEaJDRfoB-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ENoXBHanKeUOEaJDRfoB-19" edge="1" parent="ENoXBHanKeUOEaJDRfoB-2" source="ENoXBHanKeUOEaJDRfoB-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="ENoXBHanKeUOEaJDRfoB-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ENoXBHanKeUOEaJDRfoB-22" edge="1" parent="ENoXBHanKeUOEaJDRfoB-2" source="ENoXBHanKeUOEaJDRfoB-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ENoXBHanKeUOEaJDRfoB-25" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ENoXBHanKeUOEaJDRfoB-23" parent="ENoXBHanKeUOEaJDRfoB-2" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Edit the Camera-ready copy" vertex="1">
+          <mxGeometry height="55" width="130" x="220" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="ENoXBHanKeUOEaJDRfoB-24" edge="1" parent="ENoXBHanKeUOEaJDRfoB-2" source="ENoXBHanKeUOEaJDRfoB-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ENoXBHanKeUOEaJDRfoB-26" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ENoXBHanKeUOEaJDRfoB-25" parent="ENoXBHanKeUOEaJDRfoB-2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" value="&lt;font&gt;Copy Editor Edited Camera-ready copy&lt;/font&gt;" vertex="1">
+          <mxGeometry height="58" width="120" x="510" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="ENoXBHanKeUOEaJDRfoB-29" edge="1" parent="ENoXBHanKeUOEaJDRfoB-2" source="ENoXBHanKeUOEaJDRfoB-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ENoXBHanKeUOEaJDRfoB-28" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ENoXBHanKeUOEaJDRfoB-26" parent="ENoXBHanKeUOEaJDRfoB-2" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="&lt;span id=&quot;docs-internal-guid-aca8e70d-7fff-057d-2782-0834d3039726&quot;&gt;&lt;span style=&quot;font-size: 12pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Upload the edited &lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;div&gt;&lt;span&gt;&lt;span style=&quot;font-size: 12pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;camera-ready copy&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="58" width="193" x="550" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="ENoXBHanKeUOEaJDRfoB-28" parent="ENoXBHanKeUOEaJDRfoB-2" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="800" y="304" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
