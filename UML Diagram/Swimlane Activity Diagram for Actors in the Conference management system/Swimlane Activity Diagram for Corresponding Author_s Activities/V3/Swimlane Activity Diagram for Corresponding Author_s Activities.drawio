@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36">
   <diagram name="Page-1" id="1HZXh5QRfGFmXR6bCQzi">
-    <mxGraphModel dx="3473" dy="1987" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="867" dy="411" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -457,7 +457,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q-xj2mWmQH0BjTglM4Sh-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Read submission guidelines" vertex="1">
-          <mxGeometry height="55" width="121" x="907" y="540" as="geometry" />
+          <mxGeometry height="55" width="121" x="912" y="540" as="geometry" />
         </mxCell>
         <mxCell id="Q-xj2mWmQH0BjTglM4Sh-115" edge="1" parent="1" source="Q-xj2mWmQH0BjTglM4Sh-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Q-xj2mWmQH0BjTglM4Sh-114" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -546,7 +546,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Q-xj2mWmQH0BjTglM4Sh-42" edge="1" parent="1" source="Q-xj2mWmQH0BjTglM4Sh-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Q-xj2mWmQH0BjTglM4Sh-8">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="849" y="469" />
+              <mxPoint x="849" y="567" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Q-xj2mWmQH0BjTglM4Sh-43" connectable="0" parent="Q-xj2mWmQH0BjTglM4Sh-42" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="[Submit initial manuscript]" vertex="1">
           <mxGeometry relative="1" x="-0.0734" y="-1" as="geometry">
