@@ -4,6 +4,39 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="b8CN1Jlh9Mx20CW3odcy-1" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="Title Page" vertex="1">
+          <mxGeometry height="40" width="120" x="140" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="b8CN1Jlh9Mx20CW3odcy-2" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="Cover Letter" vertex="1">
+          <mxGeometry height="40" width="120" x="365" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="b8CN1Jlh9Mx20CW3odcy-3" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="Author Declaration" vertex="1">
+          <mxGeometry height="40" width="120" x="150" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="b8CN1Jlh9Mx20CW3odcy-4" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="Abstract" vertex="1">
+          <mxGeometry height="40" width="120" x="380" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="b8CN1Jlh9Mx20CW3odcy-5" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="Manuscript" vertex="1">
+          <mxGeometry height="40" width="120" x="580" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="b8CN1Jlh9Mx20CW3odcy-6" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="Revised Manuscript" vertex="1">
+          <mxGeometry height="40" width="120" x="590" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="b8CN1Jlh9Mx20CW3odcy-7" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="Re-revised Manuscript" vertex="1">
+          <mxGeometry height="40" width="120" x="140" y="292" as="geometry" />
+        </mxCell>
+        <mxCell id="b8CN1Jlh9Mx20CW3odcy-8" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="Camera-ready" vertex="1">
+          <mxGeometry height="40" width="120" x="365" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="b8CN1Jlh9Mx20CW3odcy-9" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="Research Track" vertex="1">
+          <mxGeometry height="40" width="120" x="550" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="b8CN1Jlh9Mx20CW3odcy-10" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="Corresponding Author" vertex="1">
+          <mxGeometry height="40" width="130" x="200" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="b8CN1Jlh9Mx20CW3odcy-11" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="Payment" vertex="1">
+          <mxGeometry height="40" width="120" x="450" y="400" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
