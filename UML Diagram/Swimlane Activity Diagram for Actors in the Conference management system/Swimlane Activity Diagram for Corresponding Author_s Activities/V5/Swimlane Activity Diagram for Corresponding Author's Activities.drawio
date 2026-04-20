@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="Tn5Pryx-cbzBXXqGRllW">
-    <mxGraphModel dx="2575" dy="2590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="940" dy="1541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -237,9 +237,10 @@
         <mxCell id="lxYUeob8bIqewEY7icWS-57" parent="lxYUeob8bIqewEY7icWS-2" style="rhombus;" value="" vertex="1">
           <mxGeometry height="30" width="30" x="1449" y="996" as="geometry" />
         </mxCell>
-        <mxCell id="lxYUeob8bIqewEY7icWS-58" edge="1" parent="lxYUeob8bIqewEY7icWS-2" source="lxYUeob8bIqewEY7icWS-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" target="Vo-vRdr2nX9hseV1Dwhd-1">
+        <mxCell id="lxYUeob8bIqewEY7icWS-58" edge="1" parent="lxYUeob8bIqewEY7icWS-2" source="3Nd_gW-sft455os5BGZW-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="Vo-vRdr2nX9hseV1Dwhd-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="1781" y="1011" />
               <mxPoint x="1989" y="1011" />
               <mxPoint x="1989" y="231" />
               <mxPoint x="1000" y="231" />
@@ -247,6 +248,14 @@
             </Array>
             <mxPoint x="1801.5" y="1193" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="3Nd_gW-sft455os5BGZW-5" connectable="0" parent="lxYUeob8bIqewEY7icWS-58" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="[access dashboard]" vertex="1">
+          <mxGeometry relative="1" x="-0.911" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3Nd_gW-sft455os5BGZW-8" edge="1" parent="lxYUeob8bIqewEY7icWS-2" source="lxYUeob8bIqewEY7icWS-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3Nd_gW-sft455os5BGZW-1" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lxYUeob8bIqewEY7icWS-59" parent="lxYUeob8bIqewEY7icWS-2" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Read the Author Declaration Submission Guidelines" vertex="1">
           <mxGeometry height="55" width="131.5" x="1587" y="983.5" as="geometry" />
@@ -282,7 +291,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lxYUeob8bIqewEY7icWS-66" parent="lxYUeob8bIqewEY7icWS-2" style="whiteSpace=wrap;html=1;rounded=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Download Author Declaration Template." vertex="1">
-          <mxGeometry height="60" width="120" x="1637" y="1066" as="geometry" />
+          <mxGeometry height="60" width="120" x="1726" y="1066" as="geometry" />
         </mxCell>
         <mxCell id="lxYUeob8bIqewEY7icWS-68" parent="lxYUeob8bIqewEY7icWS-2" style="whiteSpace=wrap;html=1;rounded=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Uploads Author Declaration PDF or Word document" vertex="1">
           <mxGeometry height="60" width="120" x="1404" y="1163" as="geometry" />
@@ -457,15 +466,24 @@
         <mxCell id="lxYUeob8bIqewEY7icWS-108" parent="lxYUeob8bIqewEY7icWS-2" style="rhombus;" value="" vertex="1">
           <mxGeometry height="30" width="30" x="1464" y="1683" as="geometry" />
         </mxCell>
-        <mxCell id="lxYUeob8bIqewEY7icWS-109" edge="1" parent="lxYUeob8bIqewEY7icWS-2" source="lxYUeob8bIqewEY7icWS-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.569;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;" target="Vo-vRdr2nX9hseV1Dwhd-1">
+        <mxCell id="lxYUeob8bIqewEY7icWS-109" edge="1" parent="lxYUeob8bIqewEY7icWS-2" source="3Nd_gW-sft455os5BGZW-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.569;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="Vo-vRdr2nX9hseV1Dwhd-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2140" y="1698" />
               <mxPoint x="2140" y="131" />
               <mxPoint x="724" y="131" />
             </Array>
+            <mxPoint x="1881" y="1701" as="sourcePoint" />
             <mxPoint x="1687" y="1933" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="3Nd_gW-sft455os5BGZW-15" connectable="0" parent="lxYUeob8bIqewEY7icWS-109" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="[access dashboard]" vertex="1">
+          <mxGeometry relative="1" x="-0.953" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3Nd_gW-sft455os5BGZW-14" edge="1" parent="lxYUeob8bIqewEY7icWS-2" source="lxYUeob8bIqewEY7icWS-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3Nd_gW-sft455os5BGZW-12" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lxYUeob8bIqewEY7icWS-110" parent="lxYUeob8bIqewEY7icWS-2" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Read Manuscript upload Guidelines" vertex="1">
           <mxGeometry height="55" width="131.5" x="1625.5" y="1670.5" as="geometry" />
@@ -499,7 +517,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lxYUeob8bIqewEY7icWS-117" parent="lxYUeob8bIqewEY7icWS-2" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Download Manuscript template" vertex="1">
-          <mxGeometry height="65" width="125" x="1676" y="1790.5" as="geometry" />
+          <mxGeometry height="65" width="125" x="1784" y="1790.5" as="geometry" />
         </mxCell>
         <mxCell id="lxYUeob8bIqewEY7icWS-119" parent="lxYUeob8bIqewEY7icWS-2" style="whiteSpace=wrap;html=1;rounded=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Upload Manuscript PDF &amp;amp; Word document" vertex="1">
           <mxGeometry height="60" width="120" x="1419" y="1903" as="geometry" />
@@ -668,6 +686,28 @@
             </Array>
             <mxPoint x="700" y="536" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="3Nd_gW-sft455os5BGZW-9" edge="1" parent="lxYUeob8bIqewEY7icWS-2" source="3Nd_gW-sft455os5BGZW-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="lxYUeob8bIqewEY7icWS-66" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Nd_gW-sft455os5BGZW-10" connectable="0" parent="3Nd_gW-sft455os5BGZW-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="[Download Author&amp;nbsp;&lt;div&gt;declaration template]&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.1635" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3Nd_gW-sft455os5BGZW-1" parent="lxYUeob8bIqewEY7icWS-2" style="rhombus;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="1771" y="996" as="geometry" />
+        </mxCell>
+        <mxCell id="3Nd_gW-sft455os5BGZW-16" edge="1" parent="lxYUeob8bIqewEY7icWS-2" source="3Nd_gW-sft455os5BGZW-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="lxYUeob8bIqewEY7icWS-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Nd_gW-sft455os5BGZW-17" connectable="0" parent="3Nd_gW-sft455os5BGZW-16" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="[Download Manuscript&amp;nbsp;&lt;div&gt;Template]&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.3321" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3Nd_gW-sft455os5BGZW-12" parent="lxYUeob8bIqewEY7icWS-2" style="rhombus;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="1831" y="1683" as="geometry" />
         </mxCell>
         <mxCell id="lxYUeob8bIqewEY7icWS-153" edge="1" parent="1" source="lxYUeob8bIqewEY7icWS-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="lxYUeob8bIqewEY7icWS-156">
           <mxGeometry relative="1" as="geometry" />
