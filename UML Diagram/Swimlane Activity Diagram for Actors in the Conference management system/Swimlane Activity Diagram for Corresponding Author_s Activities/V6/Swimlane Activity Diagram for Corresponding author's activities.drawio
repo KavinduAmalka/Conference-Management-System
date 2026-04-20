@@ -1,0 +1,19 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="VClC9DxXyR9WApeiVgjC">
+    <mxGraphModel dx="1030" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UMsaZsI7n5UAFtxYJ2Iu-1" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=29;horizontalStack=0;html=1;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Swimlane Activity Diagram for Corresponding author&#39;s activities&lt;/span&gt;" vertex="1">
+          <mxGeometry height="1149" width="780" x="41" y="41" as="geometry" />
+        </mxCell>
+        <mxCell id="UMsaZsI7n5UAFtxYJ2Iu-2" parent="UMsaZsI7n5UAFtxYJ2Iu-1" style="swimlane;startSize=29;horizontal=0;html=1;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Corresponding Author&lt;/font&gt;" vertex="1">
+          <mxGeometry height="560" width="780" y="29" as="geometry" />
+        </mxCell>
+        <mxCell id="UMsaZsI7n5UAFtxYJ2Iu-5" parent="UMsaZsI7n5UAFtxYJ2Iu-1" style="swimlane;startSize=20;horizontal=0;html=1;" value="Lane 1" vertex="1">
+          <mxGeometry height="560" width="780" y="589" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
