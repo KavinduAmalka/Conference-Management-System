@@ -1,10 +1,10 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="Cv7J_4kZnIwcwm77L0l9">
-    <mxGraphModel dx="1290" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1214" dy="701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="jtdiUseRRJyi0d8faC_Y-1" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=30;horizontalStack=0;html=1;" value="Swimlane Activity Diagram for Manuscript submission of the corresponding author" vertex="1">
+        <mxCell id="jtdiUseRRJyi0d8faC_Y-1" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=30;horizontalStack=0;html=1;" value="Swimlane Activity Diagram for revised or re-revised Manuscript submission of the corresponding author" vertex="1">
           <mxGeometry height="670" width="920" x="40" y="40" as="geometry" />
         </mxCell>
         <mxCell id="jtdiUseRRJyi0d8faC_Y-2" parent="jtdiUseRRJyi0d8faC_Y-1" style="swimlane;startSize=30;horizontal=0;html=1;" value="Corresponding Author" vertex="1">
