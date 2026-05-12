@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="405NosduGBkaNEzBmoF8">
-    <mxGraphModel dx="1290" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2949" dy="1703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3011,7 +3011,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="22nAyItFVLsubODiDXR--302" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=360;height=40;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;FGS Conference Management System&lt;/font&gt;" vertex="1">
-          <mxGeometry height="3900" width="836.61" x="1043.39" y="4460" as="geometry" />
+          <mxGeometry height="3370" width="836.61" x="1043.39" y="4460" as="geometry" />
         </mxCell>
         <mxCell id="22nAyItFVLsubODiDXR--303" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Corresponding&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Author&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="110" width="60" x="888.1399999999999" y="4768" as="geometry" />
