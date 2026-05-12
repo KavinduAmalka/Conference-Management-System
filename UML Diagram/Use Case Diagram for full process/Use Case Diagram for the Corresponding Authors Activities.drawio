@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="405NosduGBkaNEzBmoF8">
-    <mxGraphModel dx="3440" dy="1987" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="826" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3573,7 +3573,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="08TXAodxEYOJfuvLFoeh-21" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=360;height=40;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;FGS Conference Management System&lt;/font&gt;" vertex="1">
-          <mxGeometry height="990" width="614.75" x="4095.25" y="4420" as="geometry" />
+          <mxGeometry height="1910" width="644.75" x="4095.25" y="4420" as="geometry" />
         </mxCell>
         <mxCell id="08TXAodxEYOJfuvLFoeh-22" edge="1" parent="1" source="08TXAodxEYOJfuvLFoeh-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="08TXAodxEYOJfuvLFoeh-30">
           <mxGeometry relative="1" as="geometry">
@@ -3590,7 +3590,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="08TXAodxEYOJfuvLFoeh-25" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="&lt;b&gt;&lt;font size=&quot;3&quot;&gt;KLN Payment Gateway&lt;/font&gt;&lt;/b&gt;" vertex="1">
-          <mxGeometry height="100" width="40" x="4840" y="4479" as="geometry" />
+          <mxGeometry height="100" width="40" x="4920" y="4479" as="geometry" />
         </mxCell>
         <mxCell id="08TXAodxEYOJfuvLFoeh-26" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;b&gt;&lt;font size=&quot;3&quot;&gt;Submit Cover Letter&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="70" width="200" x="4166" y="4710" as="geometry" />
@@ -3620,7 +3620,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="08TXAodxEYOJfuvLFoeh-35" parent="1" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;As per the discussions we had with PB officials, we will develop a new Payment Gateway within the system&lt;/font&gt;" vertex="1">
-          <mxGeometry height="132" width="350" x="4760" y="4668" as="geometry" />
+          <mxGeometry height="132" width="350" x="4840" y="4668" as="geometry" />
         </mxCell>
         <mxCell id="08TXAodxEYOJfuvLFoeh-36" edge="1" parent="1" source="08TXAodxEYOJfuvLFoeh-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" target="08TXAodxEYOJfuvLFoeh-33">
           <mxGeometry relative="1" as="geometry">
@@ -3762,6 +3762,21 @@
             <mxPoint x="4190" y="4840" as="sourcePoint" />
             <mxPoint x="4240" y="4790" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="08TXAodxEYOJfuvLFoeh-59" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;Formatting and Originality check&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="90" width="250" x="4190" y="5520" as="geometry" />
+        </mxCell>
+        <mxCell id="08TXAodxEYOJfuvLFoeh-60" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;Review the Paper&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="90" width="250" x="4180" y="5656" as="geometry" />
+        </mxCell>
+        <mxCell id="08TXAodxEYOJfuvLFoeh-61" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;Revised/ Re-revised Paper Submit&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="90" width="250" x="4180" y="5780" as="geometry" />
+        </mxCell>
+        <mxCell id="08TXAodxEYOJfuvLFoeh-62" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;Camera-ready submit&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="90" width="250" x="4180" y="5910" as="geometry" />
+        </mxCell>
+        <mxCell id="08TXAodxEYOJfuvLFoeh-63" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;finalize and publish the paper&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="90" width="250" x="4180" y="6050" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
