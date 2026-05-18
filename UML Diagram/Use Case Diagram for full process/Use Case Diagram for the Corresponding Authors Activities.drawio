@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="405NosduGBkaNEzBmoF8">
-    <mxGraphModel dx="5150" dy="2980" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2580" dy="1490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4035,8 +4035,8 @@
         <mxCell id="iALUBNZ9XKL_44vCVAk9-248" edge="1" parent="1" source="iALUBNZ9XKL_44vCVAk9-245" style="endArrow=block;html=1;rounded=0;align=center;verticalAlign=bottom;endFill=0;labelBackgroundColor=none;endSize=8;entryX=1;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" target="iALUBNZ9XKL_44vCVAk9-215" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="9226" y="6719.5" />
-              <mxPoint x="9226" y="6041.5" />
+              <mxPoint x="9400" y="6720" />
+              <mxPoint x="9400" y="6042" />
             </Array>
             <mxPoint x="7884" y="6303.5" as="sourcePoint" />
             <mxPoint x="7976" y="6219.5" as="targetPoint" />
@@ -4720,6 +4720,24 @@
         </mxCell>
         <mxCell id="Ffw7UQtHWTaqnXEuMvMc-250" connectable="0" parent="Ffw7UQtHWTaqnXEuMvMc-249" style="resizable=0;html=1;align=center;verticalAlign=top;labelBackgroundColor=none;" value="" vertex="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QBKhOaNH8w-iKv_cvnsh-1" parent="1" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Based on the review comment get the &lt;/span&gt;&lt;font style=&quot;font-size: 18px; color: light-dark(rgb(237, 237, 237), rgb(255, 255, 255));&quot;&gt;decision&amp;nbsp;&lt;br&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px; font-family: Arial, sans-serif; white-space: pre-wrap; background-color: transparent; color: rgb(237, 237, 237);&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(237, 237, 237), rgb(255, 255, 255));&quot;&gt;Forward review comments file and related documents to Corresponding Author and co- authors OR &lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: Arial, sans-serif; white-space: pre-wrap;&quot;&gt;&lt;span style=&quot;background-color: transparent; font-size: 16px; text-align: center;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(237, 237, 237), rgb(255, 255, 255));&quot;&gt;Forward Manuscript and reviews to Track Editor. &lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;font style=&quot;color: light-dark(rgb(237, 237, 237), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;background-color: transparent; font-size: 16px;&quot;&gt;OR  &lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: Helvetica; text-align: center; white-space: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Request 3rd Reviewer&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="197" width="350" x="7800" y="5583" as="geometry" />
+        </mxCell>
+        <mxCell id="QBKhOaNH8w-iKv_cvnsh-2" edge="1" parent="1" source="QBKhOaNH8w-iKv_cvnsh-1" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0;exitDx=350;exitDy=111.00000000000001;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" target="iALUBNZ9XKL_44vCVAk9-273" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="8180" y="5510" as="sourcePoint" />
+            <mxPoint x="8230" y="5460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QBKhOaNH8w-iKv_cvnsh-3" parent="1" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px; color: light-dark(rgb(237, 237, 237), rgb(255, 255, 255));&quot;&gt;Get the decision after check the revised or re-revised&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-family: Arial, sans-serif; white-space: pre-wrap; background-color: transparent; color: rgb(237, 237, 237);&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(237, 237, 237), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: Helvetica; text-align: center; white-space: normal;&quot;&gt;Request camera-ready paper from Corresponding Author&lt;/span&gt; OR &lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: Arial, sans-serif; text-align: center; white-space: pre-wrap;&quot;&gt;Reject the paper &lt;/span&gt;&lt;span style=&quot;font-family: Arial, sans-serif; white-space: pre-wrap;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(237, 237, 237), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;OR  &lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: Arial, sans-serif; text-align: center; white-space: pre-wrap;&quot;&gt;Forward review comments file and related documents to Corresponding Author and co- authors&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="197" width="350" x="8990" y="6450" as="geometry" />
+        </mxCell>
+        <mxCell id="QBKhOaNH8w-iKv_cvnsh-4" edge="1" parent="1" source="Ffw7UQtHWTaqnXEuMvMc-66" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="QBKhOaNH8w-iKv_cvnsh-3" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="8990" y="6640" as="sourcePoint" />
+            <mxPoint x="9040" y="6590" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
