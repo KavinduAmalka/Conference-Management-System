@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="405NosduGBkaNEzBmoF8">
-    <mxGraphModel dx="2580" dy="1490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3440" dy="1987" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -169,7 +169,7 @@
         <mxCell id="NKv4b0x00N5TQoU7O8EW-105" parent="1" style="shape=mxgraph.uml25.behaviorAction;html=1;rounded=1;absoluteArcSize=1;arcSize=10;align=left;spacingLeft=5;whiteSpace=wrap;" value="&lt;font size=&quot;3&quot;&gt;Initial Manuscript Submission Process&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="269.5" x="546.5" y="917" as="geometry" />
         </mxCell>
-        <mxCell id="NKv4b0x00N5TQoU7O8EW-110" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=394;height=25;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;FGS-Conference Management System&lt;/font&gt;" vertex="1">
+        <mxCell id="NKv4b0x00N5TQoU7O8EW-110" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=624;height=25;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;FGS-Conference Management System - Paper Submission Process&lt;/font&gt;" vertex="1">
           <mxGeometry height="1350" width="1110" x="126" y="65" as="geometry" />
         </mxCell>
         <mxCell id="leatc66boc8IU1VAIHoN-84" edge="1" parent="NKv4b0x00N5TQoU7O8EW-110" source="leatc66boc8IU1VAIHoN-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="leatc66boc8IU1VAIHoN-83">
@@ -2599,7 +2599,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="22nAyItFVLsubODiDXR--157" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=360;height=40;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;FGS Conference Management System&lt;/font&gt;" vertex="1">
+        <mxCell id="22nAyItFVLsubODiDXR--157" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=602;height=39;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;FGS-Conference Management System - Paper Submission Process&lt;/span&gt;" vertex="1">
           <mxGeometry height="1240" width="1200" x="548.25" y="1831" as="geometry" />
         </mxCell>
         <mxCell id="22nAyItFVLsubODiDXR--158" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Corresponding&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Author&lt;/font&gt;&lt;/div&gt;" vertex="1">
@@ -2744,7 +2744,7 @@
         <mxCell id="22nAyItFVLsubODiDXR--196" parent="22nAyItFVLsubODiDXR--192" style="html=1;align=left;spacingLeft=4;verticalAlign=top;strokeColor=none;fillColor=none;whiteSpace=wrap;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Postconditions: User is authenticated&lt;/font&gt;" vertex="1">
           <mxGeometry height="25" width="400" y="38" as="geometry" />
         </mxCell>
-        <mxCell id="22nAyItFVLsubODiDXR--197" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=360;height=40;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;FGS Conference Management System&lt;/font&gt;" vertex="1">
+        <mxCell id="22nAyItFVLsubODiDXR--197" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=596;height=38;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;FGS-Conference Management System - Paper Submission Process&lt;/span&gt;" vertex="1">
           <mxGeometry height="960" width="1070" x="603.5" y="3262" as="geometry" />
         </mxCell>
         <mxCell id="22nAyItFVLsubODiDXR--198" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Corresponding&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Author&lt;/font&gt;&lt;/div&gt;" vertex="1">
