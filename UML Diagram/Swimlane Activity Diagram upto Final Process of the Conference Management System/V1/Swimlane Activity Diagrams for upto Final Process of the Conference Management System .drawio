@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36">
   <diagram name="Page-1" id="iwK3xnbxMHrvyPtdwE9A">
-    <mxGraphModel dx="983" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1474" dy="851" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -481,7 +481,7 @@
           <mxGeometry height="87.5" width="170" x="3592" y="640" as="geometry" />
         </mxCell>
         <mxCell id="Rbgb0S2siAlNcubZHcFx-71" parent="4fEv1p0nnIGYUGGJ2VLS-8" style="shape=sumEllipse;perimeter=ellipsePerimeter;html=1;backgroundOutline=1;" value="" vertex="1">
-          <mxGeometry height="30" width="30" x="3662" y="496.5" as="geometry" />
+          <mxGeometry height="30" width="30" x="3662" y="560.5" as="geometry" />
         </mxCell>
         <mxCell id="Rbgb0S2siAlNcubZHcFx-77" parent="4fEv1p0nnIGYUGGJ2VLS-8" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Require the Editorial Manager to &quot;Suggest Reviewer/s&quot;&lt;/font&gt;" vertex="1">
           <mxGeometry height="72.5" width="177" x="3875" y="831.5" as="geometry" />
