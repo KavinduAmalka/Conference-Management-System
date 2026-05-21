@@ -3676,7 +3676,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iALUBNZ9XKL_44vCVAk9-33" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=594;height=33;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;FGS Conference Management System -&lt;/b&gt;&amp;nbsp;&lt;/font&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Manuscript review process&lt;/font&gt;&lt;/b&gt;" vertex="1">
-          <mxGeometry height="1583" width="734.25" x="8285.75" y="4547" as="geometry" />
+          <mxGeometry height="1533" width="734.25" x="8285.75" y="4547" as="geometry" />
         </mxCell>
         <mxCell id="iALUBNZ9XKL_44vCVAk9-38" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;Sign-In&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="70" width="200" x="8551" y="4635" as="geometry" />
