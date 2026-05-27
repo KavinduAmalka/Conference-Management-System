@@ -2797,7 +2797,7 @@
           <mxGeometry height="25" width="400" y="38" as="geometry" />
         </mxCell>
         <mxCell id="22nAyItFVLsubODiDXR--255" parent="1" style="fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;" value="" vertex="1">
-          <mxGeometry height="130" width="400" x="1178.25" y="2545" as="geometry" />
+          <mxGeometry height="130" width="400" x="1217.5" y="2362" as="geometry" />
         </mxCell>
         <mxCell id="22nAyItFVLsubODiDXR--256" parent="22nAyItFVLsubODiDXR--255" style="html=1;align=center;spacingLeft=4;verticalAlign=middle;strokeColor=none;fillColor=none;fontStyle=1;whiteSpace=wrap;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Submit Revised/ Re-revised&amp;nbsp;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="400" as="geometry" />
@@ -2886,8 +2886,8 @@
         <mxCell id="22nAyItFVLsubODiDXR--293" edge="1" parent="1" source="22nAyItFVLsubODiDXR--259" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="22nAyItFVLsubODiDXR--179" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="2043" y="2629" />
-              <mxPoint x="2043" y="2007" />
+              <mxPoint x="2010" y="2450" />
+              <mxPoint x="2010" y="2007" />
             </Array>
             <mxPoint x="1653" y="2322" as="sourcePoint" />
             <mxPoint x="1703" y="2272" as="targetPoint" />
