@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="405NosduGBkaNEzBmoF8">
-    <mxGraphModel dx="1290" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1876" dy="1084" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3271,10 +3271,10 @@
           <mxGeometry height="73" width="250" x="1225" y="4939" as="geometry" />
         </mxCell>
         <mxCell id="Ffw7UQtHWTaqnXEuMvMc-214" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;3. Submit camera ready&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="80" width="250" x="1225" y="5283" as="geometry" />
+          <mxGeometry height="80" width="250" x="1225" y="5282" as="geometry" />
         </mxCell>
         <mxCell id="Ffw7UQtHWTaqnXEuMvMc-219" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;1. Submit Manuscript&amp;nbsp;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="70" width="200" x="1242.63" y="4723" as="geometry" />
+          <mxGeometry height="70" width="200" x="1250" y="4737" as="geometry" />
         </mxCell>
         <mxCell id="Ffw7UQtHWTaqnXEuMvMc-220" edge="1" parent="1" source="Ffw7UQtHWTaqnXEuMvMc-197" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" target="Ffw7UQtHWTaqnXEuMvMc-219" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -3702,7 +3702,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="V7Otf8QKuVZSbQITcrms-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;4. Register for the conference&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="70" width="265" x="1193" y="5593" as="geometry" />
+          <mxGeometry height="70" width="265" x="1217.5" y="5595" as="geometry" />
         </mxCell>
         <mxCell id="V7Otf8QKuVZSbQITcrms-9" edge="1" parent="1" source="Ffw7UQtHWTaqnXEuMvMc-205" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;jumpStyle=arc;jumpSize=13;" target="V7Otf8QKuVZSbQITcrms-8" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
