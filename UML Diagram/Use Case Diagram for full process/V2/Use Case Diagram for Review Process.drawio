@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="76YVwLnWhFUhC7Hfn278">
-    <mxGraphModel dx="1876" dy="2184" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2064" dy="2292" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1764,7 +1764,7 @@
         <mxCell id="fZ7RJitiOlfQpqn3V8L0-5" parent="fZ7RJitiOlfQpqn3V8L0-1" style="html=1;align=left;spacingLeft=4;verticalAlign=top;strokeColor=none;fillColor=none;whiteSpace=wrap;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Preconditions: User is authenticated&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 16px; text-align: center; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Revised/ Re-revised manuscript&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;should be received&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="72" width="380" y="38" as="geometry" />
         </mxCell>
-        <mxCell id="fZ7RJitiOlfQpqn3V8L0-6" edge="1" parent="1" source="fZ7RJitiOlfQpqn3V8L0-2" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="XzHUIO7Dw14vxmCuJSDf-160" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&amp;lt;&amp;lt;include&amp;gt;&amp;gt;&lt;/font&gt;">
+        <mxCell id="fZ7RJitiOlfQpqn3V8L0-6" edge="1" parent="1" source="fZ7RJitiOlfQpqn3V8L0-5" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="XzHUIO7Dw14vxmCuJSDf-160" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&amp;lt;&amp;lt;include&amp;gt;&amp;gt;&lt;/font&gt;">
           <mxGeometry relative="1" width="160" as="geometry">
             <mxPoint x="1246" y="1348" as="sourcePoint" />
             <mxPoint x="1490" y="1478" as="targetPoint" />
