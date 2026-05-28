@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="F967b6OTleu9ftgdvnUj">
-    <mxGraphModel dx="4128" dy="2384" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3440" dy="1987" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -235,7 +235,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u0LQVnnV4RafjoH5RvwP-347" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=320;height=32;" value="&lt;span style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Title Page Submission Process&lt;/font&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="1551" width="959" x="2390" y="51" as="geometry" />
+          <mxGeometry height="1551" width="959" x="2346" y="51" as="geometry" />
         </mxCell>
         <mxCell id="u0LQVnnV4RafjoH5RvwP-348" parent="u0LQVnnV4RafjoH5RvwP-347" style="swimlane;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Author&lt;/font&gt;" vertex="1">
           <mxGeometry height="1460" width="380" x="30" y="60" as="geometry" />
