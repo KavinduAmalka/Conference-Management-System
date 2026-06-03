@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="405NosduGBkaNEzBmoF8">
-    <mxGraphModel dx="3433" dy="1873" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="896" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4018,7 +4018,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-uBWGrcErtZN0I6jJxsw-30" parent="1" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;As per the discussions we had with Peoples Bank officials, we will develop a new Payment Gateway within the system&lt;/font&gt;" vertex="1">
-          <mxGeometry height="107.5" width="346" x="5984" y="6622.5" as="geometry" />
+          <mxGeometry height="107.5" width="346" x="5827" y="6622.5" as="geometry" />
         </mxCell>
         <mxCell id="-uBWGrcErtZN0I6jJxsw-31" edge="1" parent="1" source="-uBWGrcErtZN0I6jJxsw-18" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" target="-uBWGrcErtZN0I6jJxsw-28" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
