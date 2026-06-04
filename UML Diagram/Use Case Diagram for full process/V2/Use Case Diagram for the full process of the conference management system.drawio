@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="405NosduGBkaNEzBmoF8">
-    <mxGraphModel dx="1373" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2060" dy="1124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3728,7 +3728,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bKPmsOosZ3Yt4dauj6r4-2" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=594;height=33;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;FGS Conference Management System -&lt;/b&gt;&amp;nbsp;&lt;/font&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Manuscript review process&lt;/font&gt;&lt;/b&gt;" vertex="1">
-          <mxGeometry height="678" width="734.25" x="3205.75" y="5909.5" as="geometry" />
+          <mxGeometry height="677.5" width="734.25" x="3205.75" y="5910" as="geometry" />
         </mxCell>
         <mxCell id="bKPmsOosZ3Yt4dauj6r4-8" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Editorial Manager&lt;/span&gt;" vertex="1">
           <mxGeometry height="110" width="60" x="3010" y="6483.5" as="geometry" />
