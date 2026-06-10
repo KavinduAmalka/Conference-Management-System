@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36">
   <diagram name="Page-1" id="w0YNCA4mMuPpakcplnuE">
-    <mxGraphModel dx="2084" dy="1192" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="572" dy="312" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -115,7 +115,7 @@
             <mxPoint x="1560.8095238095239" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1-pnMXaw16Ed8uO-F_5Z-77" connectable="0" parent="1-pnMXaw16Ed8uO-F_5Z-76" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;[Reject the paper]&lt;/span&gt;" vertex="1">
+        <mxCell id="1-pnMXaw16Ed8uO-F_5Z-77" connectable="0" parent="1-pnMXaw16Ed8uO-F_5Z-76" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;[Reject the manuscript]&lt;/span&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.0801" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -142,7 +142,7 @@
             <mxPoint x="1353" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1-pnMXaw16Ed8uO-F_5Z-74" connectable="0" parent="1-pnMXaw16Ed8uO-F_5Z-73" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;[Accept the paper]&lt;/font&gt;" vertex="1">
+        <mxCell id="1-pnMXaw16Ed8uO-F_5Z-74" connectable="0" parent="1-pnMXaw16Ed8uO-F_5Z-73" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;[Accept the manuscript]&lt;/font&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.1907" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
